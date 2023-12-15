@@ -1,6 +1,8 @@
 # Basic_Dicom_Viewer
 Assignment coding during data visualition
 
+if you are mcg student dont copy my code
+
 This is load dicom viewer assignment, conducted by me and my friend, Yong Kam Seng
 ![image](https://github.com/xyesy/Basic_Dicom_Viewer/assets/104482131/96e3dd7e-7cc0-45cd-8771-28ce575bf16d)
 
